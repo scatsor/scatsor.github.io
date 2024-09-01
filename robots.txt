@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scatsor.github.io/sitemap.html.gz
+Sitemap: https://scatsor.github.io/app/sitemap.html.gz
+Sitemap: https://scatsor.github.io/assets/sitemap.html.gz
+Sitemap: https://scatsor.github.io/css/sitemap.html.gz
+Sitemap: https://scatsor.github.io/includes/sitemap.html.gz
+Sitemap: https://scatsor.github.io/item/sitemap.html.gz
+Sitemap: https://scatsor.github.io/src/sitemap.html.gz
